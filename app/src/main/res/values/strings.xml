@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OpenCamera</string>
+
+    <!--MainActivity hints-->
+    <string name="activity_main_btn_open_camera_hint">Open Camera</string>
+    <!--End of MainActivity hints-->
 </resources>
